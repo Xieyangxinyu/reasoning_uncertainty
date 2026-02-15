@@ -1,0 +1,2 @@
+{"stopping_rule": "DEERBasedStoppingRule", "early_stopping_rate_well_posed": 4.0, "early_stopping_rate_ill_posed": 22.0}
+{"stopping_rule": "EntropyBasedStoppingRule", "early_stopping_rate_well_posed": 12.0, "early_stopping_rate_ill_posed": 39.0}
