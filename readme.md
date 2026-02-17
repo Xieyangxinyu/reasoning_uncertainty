@@ -1,6 +1,6 @@
 # Introduction
 
-This document provides instructions on how to set up the environment and reproduce the results for the paper [Statistical Early Stopping for Reasoning Models]().
+This document provides instructions on how to set up the environment and reproduce the results for the paper [Statistical Early Stopping for Reasoning Models](https://arxiv.org/abs/2602.13935).
 
 # Environment Setup
 We use Python 3.12 and conda for environment management. The required packages are listed in the `requirements.txt` file. We can install these packages using the following command:
